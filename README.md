@@ -7,7 +7,7 @@
 - ### DIY Mini Solar Tracker
 
 ![alt text](https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/DIY%20Mini%20Solar%20Tracker/Solar%20Tracker%202.jpg)
-<img src="https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/DIY%20Mini%20Solar%20Tracker/Solar%20Tracker%202.jpg" width="300">
+<img src="https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/DIY%20Mini%20Solar%20Tracker/Solar%20Tracker%202.jpg" width="720">
 - ### Electrical Enclosure
 
 ![alt text](https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/Electical%20Enclosure/Electric%20Enclosure%202.jpg)
