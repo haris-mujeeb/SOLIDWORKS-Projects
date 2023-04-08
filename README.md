@@ -1,7 +1,7 @@
 # SOLIDWORKS-Projects
 
 - ### Bevel Spur Gears Motion Study
-<img src="(https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/Bevel%20Spur%20Gears%20Motion%20Study/Gear%20Box%20Rendering%20480p.gif" width="720">
+![](https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/Bevel%20Spur%20Gears%20Motion%20Study/Gear%20Box%20Rendering%20480p.gif)
 
 - ### DIY Mini Solar Tracker
 <img src="https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/DIY%20Mini%20Solar%20Tracker/Solar%20Tracker%202.jpg" width="720">
