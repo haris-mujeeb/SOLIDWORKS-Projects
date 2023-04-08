@@ -18,8 +18,8 @@
 
 - ### Shock Absorber
 
-![alt text](https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/Shock%20Absorber/preview1.png)
+![alt text](https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/Shock%20Absorber/preview2.png)
 
 - ### Single Cylinder Engine
 
-![alt text](https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/Single%20Cylinder%20Engine/1.png)
+![alt text](https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/Single%20Cylinder%20Engine/2.png)
