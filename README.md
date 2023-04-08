@@ -22,4 +22,4 @@
 
 - ### Single Cylinder Engine
 
-![alt text](https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/Single%20Cylinder%20Engine/2.png)
+![alt text](https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/Single%20Cylinder%20Engine/2160p.png)
