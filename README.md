@@ -4,7 +4,7 @@
 ![](https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/Bevel%20Spur%20Gears%20Motion%20Study/Gear%20Box%20Rendering%20480p.gif)
 
 - ### DIY Mini Solar Tracker
-<img src="https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/DIY%20Mini%20Solar%20Tracker/Solar%20Tracker%202.jpg" width="500">
+<img src="https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/DIY%20Mini%20Solar%20Tracker/Solar%20Tracker%202.jpg" width="600">
 
 - ### Electrical Enclosure
 <img src="https://github.com/haris-mujeeb/SOLIDWORKS-Projects/blob/main/Electical%20Enclosure/Electric%20Enclosure%202.jpg" width="720">
